@@ -17,5 +17,11 @@ public class Main {
 
         Parent.print_All(parent_array);
         System.out.println("Hello world!");
+        Parent parent = new Parent();
+        
+        parent.printDocument_filesArr();
+
     }
+
+
 }

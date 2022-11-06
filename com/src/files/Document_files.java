@@ -48,4 +48,5 @@ public class Document_files extends Parent {
     public void print_size_and_duration() {
         System.out.println("Duration = " + multimedia_files.getDuration() + ", size pictures = " + size_in_bytes);
     }
+
 }
